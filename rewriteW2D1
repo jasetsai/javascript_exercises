@@ -1,0 +1,6 @@
+sabio.page.startup = function(){
+	
+	$("#cmdShowComments").on("click", sabio.page.handlers.onShowComments);
+}
+
+
